@@ -97,11 +97,19 @@ The model showed consistent improvement during training:
 
 ### Confusion Matrix
 
-(Add confusion matrix screenshot here)
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+### Training Curves
+
+![Training Curves](images/training_curves.png)
+
+---
 
 ### Sample Predictions
 
-(Add prediction visualization screenshot here)
+![Sample Predictions](images/sample_predictions.png)
 
 ---
 
