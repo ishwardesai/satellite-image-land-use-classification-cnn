@@ -1,6 +1,3 @@
-# satellite-image-land-use-classification-cnn
-CNN-based satellite image land use classification using the EuroSAT dataset and PyTorch
-
 # Satellite Image Land Use Classification using CNN and PyTorch
 
 ## Project Overview
